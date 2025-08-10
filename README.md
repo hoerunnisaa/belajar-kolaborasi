@@ -1,4 +1,4 @@
 # Belajar Kolaborasi
 
 Bagaimana sih cara kolaborasi didalam GitHub?<br>
-Yuk simak caranya!
+Ikuti pembelajaran di Dicoding. Sangat bermanfaat
